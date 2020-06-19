@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1590132411 source:c:\users\chinm\desktop\trees\two_four_trees\main.cpp
+	<iostream>
+	<string>
+	"two_four.h"
+
+1590133107 c:\users\chinm\desktop\trees\two_four_trees\two_four.h
+	<iostream>
+	<string>
+	<vector>
+
+1590115699 c:\users\chinm\desktop\trees\two_four_trees\tf_search.cpp
+	<iostream>
+	<string>
+	"two_four.h"
+
+1590115691 c:\users\chinm\desktop\trees\two_four_trees\tf_insertion.cpp
+	<iostream>
+	<string>
+	"two_four.h"
+
+1590115679 c:\users\chinm\desktop\trees\two_four_trees\tf_deletion.cpp
+	<iostream>
+	<string>
+	"two_four.h"
+
+1590115851 c:\users\chinm\desktop\trees\two_four_trees\tf_utils.cpp
+	<iostream>
+	<string>
+	<chrono>
+	<vector>
+	"two_four.h"
+
+1590129930 source:c:\users\chinm\desktop\trees\two_four_trees\tf_deletion.cpp
+	<iostream>
+	<string>
+	"two_four.h"
+
+1590132830 source:c:\users\chinm\desktop\trees\two_four_trees\tf_insertion.cpp
+	<iostream>
+	<string>
+	"two_four.h"
+
+1590132981 source:c:\users\chinm\desktop\trees\two_four_trees\tf_search.cpp
+	<iostream>
+	<string>
+	"two_four.h"
+
+1590132623 source:c:\users\chinm\desktop\trees\two_four_trees\tf_utils.cpp
+	<iostream>
+	<string>
+	<chrono>
+	<vector>
+	"two_four.h"
+
+1590132999 source:c:\users\chinm\desktop\trees\two_four_trees\tf_printing.cpp
+	<iostream>
+	<string>
+	"two_four.h"
+
+1590132411 source:c:\users\chinm\desktop\assignment_chinmaykurade\trees\two_four_trees\main.cpp
+	<iostream>
+	<string>
+	"two_four.h"
+
+1590133107 c:\users\chinm\desktop\assignment_chinmaykurade\trees\two_four_trees\two_four.h
+	<iostream>
+	<string>
+	<vector>
+
+1590129930 source:c:\users\chinm\desktop\assignment_chinmaykurade\trees\two_four_trees\tf_deletion.cpp
+	<iostream>
+	<string>
+	"two_four.h"
+
+1590132830 source:c:\users\chinm\desktop\assignment_chinmaykurade\trees\two_four_trees\tf_insertion.cpp
+	<iostream>
+	<string>
+	"two_four.h"
+
+1590132999 source:c:\users\chinm\desktop\assignment_chinmaykurade\trees\two_four_trees\tf_printing.cpp
+	<iostream>
+	<string>
+	"two_four.h"
+
+1590132981 source:c:\users\chinm\desktop\assignment_chinmaykurade\trees\two_four_trees\tf_search.cpp
+	<iostream>
+	<string>
+	"two_four.h"
+
+1590137073 source:c:\users\chinm\desktop\assignment_chinmaykurade\trees\two_four_trees\tf_utils.cpp
+	<iostream>
+	<string>
+	<chrono>
+	<vector>
+	"two_four.h"
+
