@@ -22,3 +22,9 @@ tf_utils.cpp contains the utilities to take input from the user.
 ###### Else run main.exe if not able to.
 
 After running, you can choose to create tree with given input elements or with random elements. Max random elements are limited to 30,000.
+
+
+##### References:
+
+###### 1. http://www.mathcs.emory.edu/~cheung/Courses/323/Syllabus/Trees/2,4-delete.html
+###### 2. http://www.mathcs.emory.edu/~cheung/Courses/323/Syllabus/Trees/2,4-insert.html
