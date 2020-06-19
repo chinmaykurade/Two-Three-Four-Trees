@@ -15,8 +15,10 @@ This repository includes files to insert or delete a particular data element fro
 Code for insertion, searching(with predecessor) and deletion is located in tf_insertion.cpp, tf_search.cpp and tf_deletion.cpp respectively.
 tf_utils.cpp contains the utilities to take input from the user.
 
-##### Please open 'two_four_trees.cbp' in Code::Blocks and run main.cpp to execute the program.
+##### To run the program:
 
-Else run main.exe if not able to.
+###### Please open 'two_four_trees.cbp' in Code::Blocks and run main.cpp to execute the program.
+
+###### Else run main.exe if not able to.
 
 After running, you can choose to create tree with given input elements or with random elements. Max random elements are limited to 30,000.
